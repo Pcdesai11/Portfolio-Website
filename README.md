@@ -1,2 +1,2 @@
 # Portfolio-Website
-A portfolio website that lets you create your portfoilio using AI prompts.
+A portfolio website thatshowcases my work,skills education and generally every detail about me in a more user friendly way.
