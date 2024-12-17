@@ -1,4 +1,4 @@
-import memojiImage from '@/assets/images/memoji-smile.png';
+import memojiImage from '@/assets/images/map.png';
 import Image from 'next/image';
 import ArrowDown from '@/assets/icons/arrow-down.svg';
 export const HeroSection = () => {
@@ -13,7 +13,7 @@ export const HeroSection = () => {
     </div>
     </div>
       <h1 className="font-serif text-3xl">Building Exceptional User Experiences</h1>
-    <p className='mt-4 text-center text-white/60'>I spcialize in transfoeming desings into functional,high performing web applications.Let's discuss your next project</p>
+    <p className='mt-4 text-center text-white/60'>I specialize in transforming designs into functional,high performing web applications.Let's discuss your next project.</p>
     <div className='flex flex-col items-ceter mt-8 gap-4'>
       <button className="inline-flex items-center gap-2 border border-white/15">
         <span className='font-semibold'>Explore my work</span>
